@@ -4,7 +4,7 @@ I hope that one day I get to work in a comfortable career in Backend Development
 ...or just an okay job in Software Engineering. I'm okay with that too.
 
 ## Pronouns
-- She/Her
+- She/Her (Please use!)
 - They/Them
 - It/Its
 ## Projects (Outside of School!)
