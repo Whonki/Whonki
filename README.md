@@ -1,9 +1,12 @@
 # Hi! I'm Alice!
+I'm a High School Student planning on persuing a Bachelor's degree in Computer Science.
+I hope that one day I get to work in a comfortable career in Backend Development, AI, or Cybersecurity! 
+...or just an okay job in Software Engineering. I'm okay with that too.
 
 ## Pronouns
 - She/Her
-- -They/Them
-- -It/Its
+- They/Them
+- It/Its
 ## Projects (Outside of School!)
 - Website on CodeSandbox using CSS and HTML for Valentines Day
 - that's it :(
