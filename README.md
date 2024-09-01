@@ -1,20 +1,12 @@
 # Hi! I'm Alice!
-I'm a High School Graduate planning on persuing a Bachelor's degree in Computer Science.
-I hope that one day I get to work in a comfortable career in Backend Development, AI, or Cybersecurity! 
-...or just an okay job in Software Engineering. I'm okay with that too.
+I'm a university student pursuing a degree in Computer Science. As the years go on, hopefully I'll make some projects that I stick with! 
 
 ## Pronouns
 - She/Her (Please use!)
-- They/Them
 - It/Its
 ## Projects (Outside of School!)
 - Valentines Day Website (HTML) (Inactive!)
 - that's it :(
-## Languages
-- Python (Learning!)
-- HTML + CSS (Learning!)
-- JavaScript (Learning!)
-- C++ (STRUGGLING TO LEARN.)
 <!--
 **Whonki/Whonki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
