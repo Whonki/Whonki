@@ -8,7 +8,7 @@ I hope that one day I get to work in a comfortable career in Backend Development
 - They/Them
 - It/Its
 ## Projects (Outside of School!)
-- Website on CodeSandbox using CSS and HTML for Valentines Day
+- Valentines Day Website (HTML) (Inactive!)
 - that's it :(
 ## Languages
 - Python (Learning!)
