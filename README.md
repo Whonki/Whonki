@@ -6,7 +6,7 @@ I'm a university student pursuing a degree in Computer Science. As the years go 
 - It/Its
 ## Projects (Outside of School!)
 - Valentines Day Website (HTML) (Inactive!)
-- [My website!!](whonki/github.co)
+- [My website!!](whonki.github.co)
 <!--
 **Whonki/Whonki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
