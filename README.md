@@ -1,6 +1,8 @@
 # Hi! I'm Alice!
 I'm a university student pursuing a degree in Computer Science. As the years go on, hopefully I'll make some projects that I stick with! 
 
+At the current moment, I'm trying to learn TypeScript and React :) hopefully I can do shit in frontend, and maybe I can do more beyond that! 
+
 ## Pronouns
 - She/Her (Please use!)
 - It/Its
