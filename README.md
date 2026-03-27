@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello! I'm Alice :)</h1>
-  <h2>fullstack developer in the making I think</h2>
+  <h1>Hello! I'm Alice :)
+  </h1>
 </div>
-I like making stuff I think.
+I like making stuff! Cursed stuff, useful stuff, even practically questionable stuff. Think my ideas are bad? Because they might be lol.
