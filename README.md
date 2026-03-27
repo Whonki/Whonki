@@ -1,25 +1,5 @@
-# Hi! I'm Alice!
-I'm a university student pursuing a degree in Computer Science. As the years go on, hopefully I'll make some projects that I stick with! 
-
-At the current moment, I'm trying to learn TypeScript and React :) hopefully I can do shit in frontend, and maybe I can do more beyond that! 
-
-## Pronouns
-- She/Her (Please use!)
-- It/Its
-## Projects (Outside of School!)
-- Valentines Day Website (HTML) (Inactive!)
-- [My website!!](https://whonki.github.io/)
-<!--
-**Whonki/Whonki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h1>Hello! I'm Alice :)</h1>
+  <h2>fullstack developer in the making I think</h2>
+</div>
+I like making stuff I think.
